@@ -1,0 +1,6 @@
+Magic methods (Method, operator overloading):
+There are some built in methods in python that can be used to change the behavior of the built in methods of python that is called as operator overloading
+__repr__ for the understanding of developer
+__str__ for the part that user can see
+
+The underscore symbol in the methods is called as dunder

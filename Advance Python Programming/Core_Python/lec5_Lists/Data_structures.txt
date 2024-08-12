@@ -1,0 +1,13 @@
+Data Structures:
+	the way in which you store data in computer
+in python there are 4 types of data structures:
+#List 	(mutable, duplication allowed, oredered)	 declared with []
+#Tuples	(Immutable, duplication allowed, ordered)	declared with courses=()
+#Set	(Mutable, no Duplication allowed, unordered)	declared with set()
+
+#Dictionary (This is the most frequently used ) [Mutable, No Duplication, ordered] declared with {}
+
+there are condition what data we store:
+mutable vs immutable
+duplication vs no duplication
+ordered or unorederd

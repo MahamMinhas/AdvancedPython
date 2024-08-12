@@ -1,0 +1,11 @@
+OOP
+object oriented programming
+
+
+class (Blue print of the objects) -->. name always starts with uppercase letter
+attributes(variables)
+methods(Functions)
+
+To use class we need instance/object
+
+__init__ function performs the actions of a constructor

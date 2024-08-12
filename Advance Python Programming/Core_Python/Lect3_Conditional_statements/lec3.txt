@@ -1,0 +1,18 @@
+The statements that are difficult for the humans to make a decision whether true or false are called paradox
+
+####taking input from user#####
+
+
+###Conditional Statements######
+comditional opertaors
+less than
+greater than
+less than and equal to
+greater than or equal to
+equal ==
+
+#####Logic operator####
+and 
+or
+not
+

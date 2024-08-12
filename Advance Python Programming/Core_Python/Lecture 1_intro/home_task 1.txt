@@ -1,0 +1,4 @@
+home task 1 
+1. write a program that will reverse 3 digit number
+2. write a program that have 3 variables a, b, c  having integer values. Program will find discriminant (b^2-4ac)
+3. write a program that will have a variable called num. Program will change the sign of that number.

@@ -1,0 +1,11 @@
+function definition
+function calling 
+function arguments/parameters
+	arbitrary arguments
+	keyword argumments
+	arbitrary keyword arguments
+	position only arguments
+	keyword only arguments
+	combined positional and keyword arguments	
+return value
+default value

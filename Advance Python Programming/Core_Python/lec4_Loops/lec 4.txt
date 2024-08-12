@@ -1,0 +1,6 @@
+loops also called as iterations
+for loop (conter loop)
+	for loop is most commonly used than while loop
+while loop (conditional )
+	loop control variables
+use of infinite loop is in atm that while user input is yes and the games when user clicks yes on play again
